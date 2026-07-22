@@ -18,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/spaswan-coder/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [1901-find-a-peak-element-ii](https://github.com/spaswan-coder/LeetCode/tree/master/1901-find-a-peak-element-ii) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/spaswan-coder/LeetCode/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
