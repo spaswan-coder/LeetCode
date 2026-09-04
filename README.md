@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/spaswan-coder/LeetCode/tree/master/0074-search-a-2d-matrix) |
 | [0496-next-greater-element-i](https://github.com/spaswan-coder/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/spaswan-coder/LeetCode/tree/master/0503-next-greater-element-ii) |
 | [1901-find-a-peak-element-ii](https://github.com/spaswan-coder/LeetCode/tree/master/1901-find-a-peak-element-ii) |
 ## Binary Search
 |  |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0232-implement-queue-using-stacks](https://github.com/spaswan-coder/LeetCode/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/spaswan-coder/LeetCode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/spaswan-coder/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/spaswan-coder/LeetCode/tree/master/0503-next-greater-element-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,4 +120,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/spaswan-coder/LeetCode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/spaswan-coder/LeetCode/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
